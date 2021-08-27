@@ -10,4 +10,4 @@ Backend: - C#, .Net Core, Entity Framework, Identity Core etc.
 Frontend: - Not Yet Decided.
 
 
-Note:-This project is under Construction.
+Note:-This project is under construction.
